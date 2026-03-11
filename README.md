@@ -1,4 +1,4 @@
-# 🚀 Redis Performance & Data Structures Lab
+# 🚀 Laboratório de Estruturas de Dados e Performance em Redis
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
