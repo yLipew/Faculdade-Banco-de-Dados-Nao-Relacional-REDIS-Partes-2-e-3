@@ -88,10 +88,33 @@ O propósito desta atividade é consolidar o aprendizado sobre os conceitos de *
 * **Tratamento de Dados Complexos**: Aplicar técnicas de serialização (Base64) para armazenar arquivos binários (imagens) dentro de estruturas de texto.
 
 ---
+## 🎓 Objetivo Acadêmico
 
+Esta atividade tem como finalidade desenvolver competências fundamentais na manipulação e análise de dados utilizando a biblioteca **Pandas** em Python.
+
+Ao longo dos exercícios, são trabalhados conceitos essenciais como:
+
+- Criação e estruturação de **DataFrames**
+- Transformação de dados a partir de listas, dicionários e Series
+- Manipulação de colunas (adição, remoção e cálculos)
+- Tratamento de dados ausentes (**NaN**)
+- Seleção e filtragem de dados com `loc` e `iloc`
+- Uso de slicing para extração de subconjuntos
+- Integração e concatenação de múltiplos conjuntos de dados
+- Exploração de atributos e métodos nativos do Pandas
+
+O objetivo é proporcionar uma base sólida para aplicações futuras em:
+- **Análise de Dados**
+- **Business Intelligence (BI)**
+- **Ciência de Dados**
+- **Engenharia de Dados**
+
+Esta prática contribui diretamente para o desenvolvimento do raciocínio lógico aplicado à manipulação de dados e prepara o aluno para cenários reais do mercado de tecnologia.
+
+---
 ## 👨‍💻 Autor
 
-**Felipe Mendonça** Inteligência Artificial / Banco de Dados Não Relacional  
+**Felipe Mendonça** Inteligência Artificial / Business Inteligencee  
 **FATESG / SENAI**   
 2026
    
